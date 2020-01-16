@@ -9,6 +9,6 @@ LMB                         - Sets the position of the ray complex.
 
 H                           - Toggles the drawing of hit positions.
 
-S                           - Toggles the drawing of the ray marching calculations. (Better visualized with less rays.)
+S                           - Toggles the drawing of the ray marching calculation segments. (Better visualized with less rays.)
 
 SPACE                       - Toggles the drawing of the scene.
